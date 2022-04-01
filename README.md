@@ -11,7 +11,7 @@
 
 I'm a Future Developer Web :smile:
 
-I Love code and create new stuff, i like too much to discover new technologies and dive deep in solving problems.
+I Love code and create new stuff, i like so much to discover new technologies and dive deep in solving problems.
 
 ## My specialties:
 
