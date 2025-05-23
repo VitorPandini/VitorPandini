@@ -1,4 +1,3 @@
-
 <p align="center">
   <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Matrix Binary Rain" width="600"/>
 </p>
