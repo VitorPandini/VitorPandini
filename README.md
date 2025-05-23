@@ -1,14 +1,8 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Matrix Code Rain" />
-</p>
+
 <p align="center">
   <img src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif" alt="Matrix Binary Rain" width="600"/>
 </p>
 
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="600" alt="Matrix Rain Effect" />
-</p>
 
 
 
