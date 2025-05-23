@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" alt="Matrix Code Rain" />
+</p>
+
+
+
 <!--
          ███╗   ███╗ █████╗ ████████╗██████╗ ██╗██╗  ██╗
          ████╗ ████║██╔══██╗╚══██╔══╝██╔══██╗██║╚██╗██╔╝
